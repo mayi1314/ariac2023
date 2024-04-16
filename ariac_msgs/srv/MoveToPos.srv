@@ -1,0 +1,9 @@
+string robot_name
+string type
+bool avoid_collisions
+geometry_msgs/Pose pose
+geometry_msgs/Pose[] waypoints
+---
+
+bool success
+string message

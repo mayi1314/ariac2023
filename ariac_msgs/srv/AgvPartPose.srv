@@ -1,0 +1,5 @@
+uint8 id
+
+---
+bool success
+ariac_msgs/PartPose[] parts

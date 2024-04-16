@@ -1,0 +1,8 @@
+string robot_name
+uint8 station
+ariac_msgs/Part part
+float64[] install_direction
+
+---
+bool success
+string message

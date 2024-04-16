@@ -1,0 +1,11 @@
+# Vacuum gripper control
+
+# Enable/Disable gripper suction
+geometry_msgs/Pose pose
+ariac_msgs/Part part
+string robot_name
+float64 timeout
+
+---
+bool success
+string message

@@ -1,0 +1,7 @@
+ariac_msgs/Part part
+uint8 agv_id
+geometry_msgs/Pose pose
+
+---
+bool success
+string message
